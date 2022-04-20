@@ -1,0 +1,18 @@
+{
+  "name": "octo-pet",
+  "version": "1.0.0",
+  "description": "random experiments",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.4"
+  },
+  "dependencies": {
+    "simplemde": "^1.11.2"
+  }
+}
